@@ -3,22 +3,22 @@
 <template>
   <header class="header fluid-container">
     <div class="container">
-      <a class="header__logo" href="/">
-        <img src="../assets/icons/logo.svg" alt="" />
+      <a class="header__logo" href="#">
+        <img src="../assets/icons/logo.svg" alt="Logo" />
       </a>
       <nav class="">
         <ul class="header__menu">
           <li class="header__menu-item">
-            <a class="header__menu-link" href="/">Product</a>
+            <a class="header__menu-link" href="#">Product</a>
           </li>
           <li class="header__menu-item">
-            <a class="header__menu-link" href="/">Community</a>
+            <a class="header__menu-link" href="#">Community</a>
           </li>
           <li class="header__menu-item">
-            <a class="header__menu-link" href="/">Price</a>
+            <a class="header__menu-link" href="#">Price</a>
           </li>
           <li class="header__menu-item">
-            <a class="header__menu-link" href="/">Blog</a>
+            <a class="header__menu-link" href="#">Blog</a>
           </li>
         </ul>
       </nav>

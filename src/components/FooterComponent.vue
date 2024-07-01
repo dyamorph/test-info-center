@@ -51,7 +51,7 @@ const year = ref(new Date().getFullYear())
           </a>
         </li>
         <li>
-          <a href="vk.com">
+          <a href="https://vk.com" target="_blank">
             <img src="/src/assets/icons/vk-icon.svg" alt="VK Icon" />
             <span>Мы в контакте</span>
           </a>

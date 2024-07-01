@@ -1,0 +1,29 @@
+@import './fonts.css';
+@import './variables.css';
+
+html {
+  height: 100%;
+}
+body {
+  background-color: var(--bg);
+  color: var(--light);
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+dl,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#app {
+  font-family: 'Lato', sans-serif;
+}

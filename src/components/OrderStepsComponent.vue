@@ -1,12 +1,18 @@
 <script setup>
+import SearchIcon from '/src/assets/icons/search-icon.svg'
+import PercentIcon from '/src/assets/icons/percent-icon.svg'
+import DocumentIcon from '/src/assets/icons/document-icon.svg'
+import LetterIcon from '/src/assets/icons/letter-icon.svg'
+import BanknoteIcon from '/src/assets/icons/banknote-icon.svg'
+
 const steps = [
-  { title: 'Lorem ipsum dolorsit amet', iconSrc: '/src/assets/icons/search-icon.svg' },
-  { title: 'Consecteturadipiscing elit', iconSrc: '/src/assets/icons/percent-icon.svg' },
-  { title: 'Sed do eiusmod tempor', iconSrc: '/src/assets/icons/document-icon.svg' },
-  { title: 'Esse cillum dolore eu fugiat', iconSrc: '/src/assets/icons/letter-icon.svg' },
+  { title: 'Lorem ipsum dolorsit amet', iconSrc: SearchIcon },
+  { title: 'Consecteturadipiscing elit', iconSrc: PercentIcon },
+  { title: 'Sed do eiusmod tempor', iconSrc: DocumentIcon },
+  { title: 'Esse cillum dolore eu fugiat', iconSrc: LetterIcon },
   {
     title: 'Excepteur sint occaecat cupidatat non proident',
-    iconSrc: '/src/assets/icons/banknote-icon.svg'
+    iconSrc: BanknoteIcon
   }
 ]
 </script>

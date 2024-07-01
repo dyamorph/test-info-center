@@ -9,9 +9,6 @@
       <nav class="">
         <ul class="header__menu">
           <li class="header__menu-item">
-            <a class="header__menu-link" href="/orders">Orders</a>
-          </li>
-          <li class="header__menu-item">
             <a class="header__menu-link" href="/">Product</a>
           </li>
           <li class="header__menu-item">

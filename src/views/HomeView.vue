@@ -5,6 +5,7 @@
     <HeaderComponent />
     <HeroComponent />
     <OrderComponent />
+    <OrderHistoryComponent />
     <FooterComponent />
   </div>
 </template>
